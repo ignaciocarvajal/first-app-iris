@@ -1,4 +1,4 @@
-module firstApp
+module github.com/ignaciocarvajal/first-app-iris
 
 go 1.16
 

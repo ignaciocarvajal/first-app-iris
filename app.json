@@ -1,0 +1,12 @@
+{
+  "name": "first app iris",
+  "description": "test",
+  "keywords": [
+    "getting-started",
+    "go",
+    "sample",
+    "example"
+  ],
+  "website": "https://github.com/ignaciocarvajal/first-app-iris",
+  "repository": "http://github.com/ignaciocarvajal/first-app-iris"
+}
