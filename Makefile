@@ -1,4 +1,4 @@
-GO_BUILD_ENV := CGO_ENABLED=0 GOOS=linux GOARCH=amd64
+GO_BUILD_ENV := CGO_ENABLED=0 GOOS=linux GOARCH=amd64 GOVERSION=go1.16
 DOCKER_BUILD=$(shell pwd)/.docker_build
 DOCKER_CMD=$(DOCKER_BUILD)/first-app-iris
 
